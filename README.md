@@ -35,11 +35,15 @@ Permissions to access logs (for additional stats like failed login attempts).
 git clone https://github.com/your-username/server-performance-monitor.git
 
 **Navigate to the directory:**
+
 cd server-performance-monitor
 
 **Make the script executable:**
+
 chmod +x server-stats.sh
 
 **Running the Script**
+
 **Execute the script with:**
+
 ./server-stats.sh
