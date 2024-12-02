@@ -31,6 +31,7 @@ Permissions to access logs (for additional stats like failed login attempts).
 
 **Setup**
 **Clone this repository to your local machine:**
+
 git clone https://github.com/your-username/server-performance-monitor.git
 
 **Navigate to the directory:**
